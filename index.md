@@ -5,6 +5,6 @@
 
 
 
-# Header 1
-## Header 2
-### Header 3
+## [GNU](https://github.com/warayutkhanka/linux/blob/master/GNU.docx)
+## [UBANTU](https://github.com/warayutkhanka/linux/blob/master/ubantu.docx)
+## [LINUX COMMAND](https://github.com/warayutkhanka/linux/blob/master/%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%20linux%20command.docx)
